@@ -1,73 +1,43 @@
-# Hi there, I'm Nissan! 👋
+<div align="center">
 
-Welcome to my GitHub profile! I'm a passionate developer who loves building innovative solutions through hackathons and full-stack development projects.
+<!-- Animated Header -->
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,16,25&height=200&section=header&text=Nissan%20Dev&fontSize=50&fontColor=fff&animation=twinkling&fontAlignY=35" />
 
-## 🚀 About Me
+<!-- Typing SVG -->
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=4000&pause=1000&color=00D9FF&center=true&vCenter=true&random=false&width=600&height=100&lines=Passionate+Full-Stack+Developer;Hackathon+Enthusiast;Building+Innovative+Solutions;JavaScript+%7C+TypeScript+%7C+Python" alt="Typing SVG" /></a>
 
-I'm enthusiastic about creating impactful applications and continuously learning new technologies. I work across multiple domains including:
-- **Web Development** - Building responsive and modern web applications
-- **Full-Stack Development** - From backend logic to frontend interfaces
-- **Hackathon Projects** - Innovative solutions built under pressure and time constraints
+<br/>
 
-## 💻 Tech Stack
+<!-- Social Badges with Animation -->
+<p>
+  <a href="mailto:nissan19122006@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+  </a>
+  <a href="https://github.com/Nissan15">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+  </a>
+  <a href="https://www.linkedin.com/in/nissan-designer19">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  </a>
+</p>
 
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
-![React](https://img.shields.io/badge/React-61DAFB?style=flat&logo=react&logoColor=black)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat&logo=node.js&logoColor=white)
-![Vercel](https://img.shields.io/badge/Vercel-000000?style=flat&logo=vercel&logoColor=white)
+<!-- Profile Views Counter -->
+<img src="https://komarev.com/ghpvc/?username=Nissan15&style=for-the-badge&color=00D9FF" alt="Profile Views"/>
 
-## 📌 Featured Projects
+</div>
 
-### 🎯 [Smart-Hackathon-Reminder](https://github.com/Nissan15/Smart-Hackathon-Reminder)
-A TypeScript-based application to help organize and track hackathon reminders. 
-- Live Demo: [smart-hackathon-reminder.vercel.app](https://smart-hackathon-reminder.vercel.app)
-- **Tech**: TypeScript, Node.js, Vercel
+<br/>
 
-### 💼 [Smart-Job-Portal](https://github.com/Nissan15/Smart-Job-Portal)
-A TypeScript-powered job portal application for job seekers and employers.
-- **Tech**: TypeScript, Full-stack development
+<!-- About Section -->
+<div align="center">
+  
+## 🌟 About Me
 
-### 📦 [Shipment-Tracking](https://github.com/Nissan15/Shipment-Tracking)
-A comprehensive shipment tracking system built with JavaScript.
-- **Tech**: JavaScript, Real-time tracking
+</div>
 
-### 🎨 [vibe-Portfolio](https://github.com/Nissan15/vibe-Portfolio)
-My personal portfolio website showcasing my work and projects.
-- Live Demo: [vibe-portfolio-ecru.vercel.app](https://vibe-portfolio-ecru.vercel.app)
-- **Tech**: TypeScript, React, Vercel
-
-### 📊 [CodeTracker](https://github.com/Nissan15/CodeTracker)
-A JavaScript-based tool for tracking and analyzing code metrics.
-- **Tech**: JavaScript
-
-### 🏆 Hackathon Projects
-- [36 Hours Hackathon](https://github.com/Nissan15/36_hours_hackathon) - Python project
-- [Hackathon](https://github.com/Nissan15/hackathon) - Python project
-
-## 🎯 What I'm Interested In
-
-- 🌐 Full-stack web development
-- 🚀 Building scalable applications
-- 💡 Innovative problem-solving
-- 🤝 Collaborative development
-- 📚 Continuous learning and skill development
-
-## 📊 GitHub Stats
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=Nissan15&show_icons=true&hide_border=true&theme=radical" alt="Nissan15's GitHub Stats" />
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Nissan15&layout=compact&hide_border=true&theme=radical" alt="Nissan15's Top Languages" />
-
-## 🤝 Let's Connect
-
-Feel free to reach out if you're interested in:
-- Collaborating on projects
-- Discussing web development
-- Hackathon participation
-- Any innovative ideas!
-
----
-
-⭐ If you find my projects interesting, feel free to star them! Happy coding!
+```yaml
+name: Nissan
+location: Coimbatore,TamilNadu
+focus: ["Full-Stack Development", "Web Applications", "Hackathon Innovation"]
+interests: ["JavaScript", "React", "Node.js", "Problem Solving"]
+philosophy: "Code today, inspire tomorrow - building solutions that matter"
